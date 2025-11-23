@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      "name": "mon-app",
+      "description": "Exemple d'application CLI gérée par MyBrew",
+      "manifest": "manifests/mon-app.json"
+    },
+    {
+      "name": "hello-cli",
+      "description": "Petit outil qui affiche 'Hello from MyBrew!'",
+      "manifest": "manifests/hello-cli.json"
+    }
+  ]
+}
