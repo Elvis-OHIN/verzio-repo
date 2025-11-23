@@ -1,0 +1,8 @@
+{
+  "name": "hello-cli",
+  "version": "1.0.0",
+  "description": "Petit binaire qui affiche un message de test.",
+  "url": "https://github.com/Elvis-OHIN/verzio-repo/releases/hello-cli-1.0.0.zip",
+  "sha256": "f853f06e7df694a548f11f04824d1a263e459d2475e11b36597117f0216970c2",
+  "bin": [ "hello-cli" ]
+}
